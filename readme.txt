@@ -12,6 +12,8 @@ Create embedable featured content boxes and slider inside your WordPress site.
 
 == Description ==
 
+Create embedable featured content boxes and slider inside your WordPress site. 
+
 *[Demo](http://cardume.art.br/wp-feature-box)*
 
 = Features =
