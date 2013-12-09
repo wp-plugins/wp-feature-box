@@ -44,13 +44,7 @@ Uploading zip file:
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+You might help us with that. [Ask as something](https://github.com/oeco/wp-feature-box/issues)!
 
 == Screenshots ==
 
